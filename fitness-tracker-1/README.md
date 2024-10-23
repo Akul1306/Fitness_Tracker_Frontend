@@ -32,4 +32,4 @@ $ npm start
 
 ## Live Link
 [Fitness Tracker](https://fitness-tracker-ab.netlify.app/)
-[Backend Code][(https://github.com/Akul1306/fitness_tracker)]
+[Backend Code](https://github.com/Akul1306/fitness_tracker)
