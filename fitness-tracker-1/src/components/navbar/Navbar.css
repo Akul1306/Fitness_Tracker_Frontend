@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: var(--light-blue);
+}
+
+.container-nav1{
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar a:hover {
+  font-weight: bold;
+}
+
+.navbar strong {
+  font-size: larger;
+}
+
+@media screen and (max-width: 576px) {
+  .navbar{
+    /* font-size: small; */
+    flex-direction: column;
+  }
+
+  .navbar strong{
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .navbar .container-nav1{
+    width: 90%;
+  }
+
+}

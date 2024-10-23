@@ -1,0 +1,12 @@
+.dashboard {
+  width: fit-content;
+  margin: auto;
+}
+
+.dashboard h1 {
+  text-align: center;
+}
+
+/* .dashboard .garph{
+  width: 60%;
+} */
